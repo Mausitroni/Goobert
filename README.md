@@ -96,8 +96,8 @@ pip install --upgrade pip
 pip install numpy sounddevice pygame edge-tts vosk gpt4all
 
 6. Edit paths in goobert.py
-GPT_MODEL_PATH = r".\models\orca_mini_v3_7b.Q2_K.gguf"
-VOSK_MODEL_PATH = r".\vosk\vosk-model-en-us-0.22"
+GPT_MODEL_PATH = r".\models\orca_mini_v3_7b.Q2_K.gguf" # MAKE SURE TO DOWNLOAD THE MODELS FROM THE LINK
+VOSK_MODEL_PATH = r".\vosk\vosk-model-en-us-0.22" # MAKE SURE TO DOWNLOAD THE MODELS FROM THE LINK
 MIC_INDEX = 1
 
 7. Run goobert
