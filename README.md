@@ -62,7 +62,7 @@ goobert_windows_v1/
 ## ⚠️ Models are too large for GitHub. Download them here:
 > - GPT model: [UNAVAILABLE]
 > - Vosk model: [UNAVAILABLE]
-> - 
+> 
 > Place them in the `models/` and `vosk/` folders as shown in project structure.
 
 
