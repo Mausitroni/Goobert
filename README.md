@@ -57,6 +57,13 @@ goobert_windows_v1/
 ├─ README.md
 
 
+## ⚠️ Models are too large for GitHub. Download them here:
+> - GPT model: [UNAVAILABLE]
+> - Vosk model: [UNAVAILABLE]
+> Place them in the `models/` and `vosk/` folders as shown in project structure.
+
+
+
 > ⚠️ Important:  
 > The virtual environment (`venv/`) is **not included**. Users will create it locally.  
 
