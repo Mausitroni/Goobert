@@ -60,8 +60,8 @@ goobert_windows_v1/
 
 
 ## ⚠️ Models are too large for GitHub. Download them here:
-### GPT model: [UNAVAILABLE]
-### Vosk model: [UNAVAILABLE]
+### GPT model: [Download Orca Mini](https://drive.google.com/file/d/14V26yTFP3f5ZKqTpLDDhB0bMwGoFSyjz/view?usp=sharing)
+### Vosk model: [Download Vosk](https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip)
 > Place them in the `models/` and `vosk/` folders as shown in project structure.
 
 
